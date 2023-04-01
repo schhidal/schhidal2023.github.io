@@ -1,0 +1,51 @@
+Lebenslauf
+
+Vorname, Nachname       :   Sandip, Chhidal
+
+Position                :   IT-Support Engineer (1st Level Support / Onsite-Support)
+
+Ausbildung / Studium    :   Bachelor
+                            IBM Full Stack Software Development Professional Certificate
+                            Google IT-Support Professional Certificate
+                            Python for Everybody Google Course
+                            IBM Data Analytics with Excel and R
+                            SAP ERP System
+
+Fremdsprachen           :   Englisch / Deutsch
+
+
+IT-FACHWISSEN UND SCHWERPUNKTE
+
+Hardware                :   PC / Notebook / Smartphone / Monitor / Scanner / Drucker / Samsung / Plotter /
+Microsoft Surface
+
+Netzwerk                :    LAN / WLAN / Router / Switches / DHCP / WAN / VPN / DNS / WINS
+
+Betriebssysteme         :    Android / Windows XP / Windows 7 / Windows 8 / Windows 10 / Mac-OS / Linux
+
+Software                :    Outlook / Teams / MS Projects / Active Directory / Service Now / MS Office 07-16
+
+
+ZEITRAUM PROJEKTBESCHREIBUNG BRANCHE
+
+01/23 - jetzt 
+Projektrolle: Field Service Engineer (End-User Support)
+
+- Telefonische und schriftliche Betreuung in 1st Level
+- Telefonische Beratung und Begleitung bei Fragestellungen
+- IT-Störungen Analysierung und Problemverfolgung
+- Pflege des Ticketsystems
+- Hardware-Rollout
+- Software-Installationen
+- Instandhaltungen von PC-systemen und Servern
+- Sorgfältige Dokumentation der durchgeführten Arbeiten
+
+
+01/22 - 12/22 
+Projektrolle: 1st Level Support (IT-Support Engineer)
+- Betankung der Hardware mit verschiedener Software
+- Ausgabe und Einrichtung
+- Prüfen und Erfassen der Inventor Daten von gelieferten Notebooks
+- Anwendersupport
+- Aufbau und Abbau von Hardware-Komponenten
+- Dokumentatio
